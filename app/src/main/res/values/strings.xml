@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SomeUnitTestApp</string>
+    <string name="hint_edit_text_phone">Telephone Number</string>
+    <string name="hint_edit_text_name">Name</string>
+    <string name="hint_edit_text_id">ID</string>
+    <string name="button_text_save_contact">Save Contact</string>
+    <string name="edit_text_name_validate_error_no_name">Please put some name to your contact!</string>
+    <string name="edit_text_phone_validate_error_no_phone">Please put some phone number to your contact!</string>
+    <string name="edit_text_phone_validate_error_few_numbers">It seems that the phone could be wrong!</string>
+</resources>
